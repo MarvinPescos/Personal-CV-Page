@@ -1,14 +1,14 @@
 import './ExperienceSection.css';
 
 const experiences = [
-  { role: 'BSIT Graduate (Expected)', desc: 'Davao del Norte State College', year: '2023–2027', active: true },
-  { role: 'Hello World! ', desc: 'Wrote my first line of code', year: '2022', active: false },
+  { role: 'BS in Information Technology', desc: 'Davao del Norte State College · Expected graduation 2027', year: '2023–2027', active: true },
+  { role: 'Hello World!', desc: 'Started teaching myself to code', year: '2022', active: false },
 ];
 
 export default function ExperienceSection() {
   return (
     <section className="experience-card card animate-in delay-1">
-      <h2 className="section-title">Experience</h2>
+      <h2 className="section-title">Education</h2>
       <div className="exp-timeline">
         {experiences.map((exp, idx) => (
           <div className="exp-item" key={idx}>

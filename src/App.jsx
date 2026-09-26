@@ -33,7 +33,7 @@ function App() {
       </div>
 
       <footer className="portfolio-footer">
-        <p>© 2025 Marvin Pescos. All rights reserved.</p>
+        <p>© 2026 Marvin Pescos. All rights reserved.</p>
       </footer>
     </div>
   );

@@ -29,7 +29,7 @@ export default function HeroSection({ darkMode, toggleDarkMode }) {
           </div>
           <p className="hero-tagline">Back-end Developer</p>
           <div className="hero-actions">
-            <a href="mailto:marvinpescos@email.com" className="btn-primary">
+            <a href="mailto:marvinpescos@gmail.com" className="btn-primary">
               <Mail size={14} />
               <span>Send a Message</span>
               <ChevronRight size={14} />

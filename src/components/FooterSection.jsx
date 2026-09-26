@@ -17,11 +17,11 @@ export default function FooterSection() {
 
         <div className="footer-col">
           <div className="footer-contact-items">
-            <a href="mailto:marvinpescos@email.com" className="footer-contact-item">
+            <a href="mailto:marvinpescos@gmail.com" className="footer-contact-item">
               <Mail size={16} />
               <div>
                 <span className="contact-label">Email</span>
-                <span className="contact-value">marvinpescos@email.com</span>
+                <span className="contact-value">marvinpescos@gmail.com</span>
               </div>
             </a>
           </div>
